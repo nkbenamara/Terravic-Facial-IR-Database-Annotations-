@@ -1,0 +1,26 @@
+<annotation>
+	<folder>face12</folder>
+	<filename>1745.jpg</filename>
+	<path>/home/benamara/Desktop/Python Projects/db/Terravic Facial Infrared Database/face12/1745.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thermal_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>37</ymin>
+			<xmax>254</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>
