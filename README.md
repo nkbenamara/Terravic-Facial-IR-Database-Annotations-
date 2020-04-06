@@ -15,5 +15,5 @@ In this repository, we have uploaded our manual annotations in VOC Format of the
 
 If you use our annotations for your research, please cite our paper.
 
-(In review)
+(Under review)
 
