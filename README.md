@@ -15,5 +15,5 @@ In this repository, we have uploaded our manual annotations in VOC Format of the
 
 If you use our annotations for your research, please cite our paper.
 
-(Under review)
+N. K. Benamara, E. Zigh, T. B. Stambouli, M. Keche. Towards a Robust Thermal-Visible Heterogeneous Face Recognition Approach Based on a Cycle Generative Adversarial Network, International Journal of Interactive Multimedia and Artificial Intelligence, (2021), http://dx.doi.org/10.9781/ijimai.2021.12.003
 
